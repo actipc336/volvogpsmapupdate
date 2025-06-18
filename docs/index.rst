@@ -1,4 +1,4 @@
-How to Update Volvo GPS Map 🚗🗺️
+How to Update Volvo GPS Map?
 ================================
 
 .. toctree::
